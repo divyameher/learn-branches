@@ -1,0 +1,3 @@
+git remote add origin https://github.com/divyameher/learn-branches.git
+git remote set-url origin https://divyameher@github.com/divyameher/learn-branches.git
+git push --set-upstream origin master
